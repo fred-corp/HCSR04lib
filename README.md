@@ -2,7 +2,7 @@
 
 A library that makes using HC-SR04 modules easy.
 
-Libvrary written for Arduino.
+Library written for Arduino.
 
 ## Installation
 
