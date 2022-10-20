@@ -6,7 +6,7 @@ Libvrary written for Arduino.
 
 ## Installation
 
-Download the library and place it in your Arduino libraries folder, a link for the library manager will be added when (and if) I get to it :)
+Download the library and place it in your Arduino libraries folder, or use the Arduino IDE's "Add .ZIP library..." to install it.
 
 ## Usage
 
