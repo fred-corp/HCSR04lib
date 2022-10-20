@@ -16,6 +16,6 @@ long HCSR04lib::getDistance() {
   delayMicroseconds(10);
   digitalWrite(_trigPin, LOW);
   duration = pulseIn(_echoPin, HIGH);
-  distance = (duration/2) * 0.03432;
+  distance = (duration/2.0) * 0.03432;
   return distance;
 }
