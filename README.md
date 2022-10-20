@@ -52,7 +52,6 @@ void loop() {
 }
 ```
 
-
 ## License & Acknowledgements
 
 Quickly made with ❤️, lots of ☕️, and lack of 🛌
