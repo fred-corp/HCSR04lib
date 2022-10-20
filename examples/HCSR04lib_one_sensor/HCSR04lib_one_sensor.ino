@@ -20,6 +20,6 @@ void loop() {
   Serial.print(distance);
   Serial.println(" cm");
 
-  // Wait 1 second
-  delay(1000);
+  // Wait 0.01 seconds
+  delay(10);
 }
