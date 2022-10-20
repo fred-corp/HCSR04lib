@@ -1,10 +1,10 @@
 # Syntax Coloring Map For HCSR04lib
 
 # Datatypes (KEYWORD1)
-HCSR04lib KEYWORD1
+HCSR04lib	KEYWORD1
 
 # Methods and Functions (KEYWORD2)
-getDistance KEYWORD2
+getDistance	KEYWORD2
 
 # Instances (KEYWORD2)
 
